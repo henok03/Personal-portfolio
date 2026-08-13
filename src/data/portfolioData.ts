@@ -153,11 +153,11 @@ export const TESTIMONIALS: Testimonial[] = [
 ];
 
 export const SOCIAL_LINKS: SocialLink[] = [
-  { label: 'GitHub', badge: 'GH', href: '#', colorVar: 'var(--azure-soft)' },
-  { label: 'LinkedIn', badge: 'in', href: '#', colorVar: 'var(--rose-soft)' },
-  { label: 'Instagram', badge: 'IG', href: '#', colorVar: 'var(--emerald-soft)' },
-  { label: 'Telegram', badge: 'TG', href: '#', colorVar: 'var(--gold-soft)' },
-  { label: 'Email', badge: '✉', href: 'mailto:hello@eyobtesfaye.dev', colorVar: 'var(--rose-soft)' },
+  { label: 'GitHub', badge: 'GH', href: 'https://github.com/henok03', colorVar: 'var(--azure-soft)' },
+  { label: 'LinkedIn', badge: 'in', href: 'https://www.linkedin.com/in/henok-hailegnaw/', colorVar: 'var(--rose-soft)' },
+  { label: 'Instagram', badge: 'IG', href: 'https://www.instagram.com/henok_hailegnaw/', colorVar: 'var(--emerald-soft)' },
+  { label: 'Telegram', badge: 'TG', href: 'https://t.me/chenokr7', colorVar: 'var(--gold-soft)' },
+  { label: 'Email', badge: '✉', href: 'mailto:henokhailegnaw88@gmail.com', colorVar: 'var(--rose-soft)' },
 ];
 
 export const CODE_STREAM_LINES = [

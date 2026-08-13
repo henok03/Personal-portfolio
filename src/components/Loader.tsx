@@ -86,7 +86,7 @@ export const Loader: React.FC = () => {
 
   return (
     <div id="loader" className={hidden ? 'hide' : ''}>
-      <div class="loader-scanlines" />
+      <div className="loader-scanlines" />
       <div className="loader-inner">
         <div
           className={`loader-name-wrap ${glow ? 'glow' : ''}`}

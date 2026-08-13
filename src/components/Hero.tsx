@@ -74,7 +74,7 @@ export const Hero: React.FC = () => {
             Hi, I'm Henok — a full stack developer who moves fluidly between interface and infrastructure. I design the experience, then build the frontend and backend that make it real, fast, and reliable.
           </p>
           <div className="hero-actions">
-            <a href="#work" className="btn btn-primary">
+            <a href="#projects" className="btn btn-primary">
               View my work
             </a>
             <a href="#contact" className="btn btn-ghost">

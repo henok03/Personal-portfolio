@@ -18,7 +18,7 @@ export const Footer: React.FC = () => {
           gap: '14px',
         }}
       >
-        <span>© 2026 Eyob Tesfaye. Built by hand.</span>
+        <span>© 2026 Henok Hailegnaw. Built by hand.</span>
         <button
           type="button"
           onClick={scrollToTop}

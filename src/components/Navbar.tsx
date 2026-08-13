@@ -3,7 +3,7 @@ import React, { useEffect, useState, useRef } from 'react';
 const NAV_ITEMS = [
   { label: 'About', href: '#about' },
   { label: 'Skills', href: '#skills' },
-  { label: 'Work', href: '#work' },
+  { label: 'Projects', href: '#projects' },
   { label: 'Services', href: '#services' },
   { label: 'Contact', href: '#contact' },
   { label: 'Social', href: '#social' },
@@ -65,7 +65,7 @@ export const Navbar: React.FC = () => {
   return (
     <>
       <header className="nav">
-        <div className="nav-mark">ET</div>
+        <div className="nav-mark">HH</div>
         <nav className="nav-tabs" id="navTabs" ref={navTabsRef}>
           <div className="nav-indicator" id="navIndicator" ref={indicatorRef} />
           {NAV_ITEMS.map((item) => {

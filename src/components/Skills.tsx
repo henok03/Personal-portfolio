@@ -67,7 +67,7 @@ export const Skills: React.FC = () => {
             </div>
           ))}
         </div>
-        <div className="skills-hint">Scroll into view to watch the bars fill</div>
+       
       </div>
     </section>
   );
