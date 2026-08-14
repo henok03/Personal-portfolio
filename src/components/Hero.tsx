@@ -117,7 +117,7 @@ export const Hero: React.FC = () => {
               // db: <b>connected</b>
             </div>
             <div className="scan" />
-            <img src="public\portrait.png" alt="Image of Henok" loading="eager" />
+            <img src="/portrait.png" alt="Image of Henok" loading="eager" />
             <div className="hud-panel c2">
               <b>export default</b><br />
               function Stack() &#123;<br />
